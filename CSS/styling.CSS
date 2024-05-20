@@ -1,0 +1,36 @@
+.backgroup{
+    background-color: rgb(36, 122, 202);
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.m4FmOjk0Bx-N4JaBzsBoTgHaEP&pid=Api&P=0&h=220);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.font-example{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.line-spacing-example{
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+
+.alignment-example{
+    text-align: center;
+}
+
+.decoration-example{
+    text-decoration: line-through;
+}
+ 
+.shadow-example{
+    text-shadow: 2px 2px 4px red
+}
+
+.image-example{
+    display: block;
+    margin: auto;
+    size-adjust: auto;
+}
